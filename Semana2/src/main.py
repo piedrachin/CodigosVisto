@@ -9,3 +9,5 @@ print(n)
 print("Mexico")
 
 print("Cubaw")
+
+n = 2 + 1
