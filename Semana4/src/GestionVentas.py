@@ -12,6 +12,8 @@ def encabezadoSistema():
     print("Opción #1 : Crear facturas")
     print("Opción #2 : Imprimir facturas")
     print("----------------------------------")
+    
+    
 
 def crearFactura(             
                  montofactura,
